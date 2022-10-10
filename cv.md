@@ -27,3 +27,14 @@ Frameworks: ReactJS,  VueJs<br>
 Others: Git/GitHub, Sass(Scss), Bootstrap/BootsrapVue, Element UI, React etc.
 
 ***
+### Code Example
+function multiply(a, b) {
+  return a * b
+}
+***
+
+### Experience
+
+I have more than 1-year of experience. I am working in a Tashkent Company called Calypso Intelligent Solutions. I created a few websites and an admin panel for the website. I have experience with SturtUp projects also. I am working on 2 startup projects. For creating WebApp I use HTML, CSS(SCSS, Tailwind, or Bootstrap/BootstrapVue, and sometimes ElementUI also and VueJs. I really love JavaScript and her framework VueJs. Now I'm learning JS deeply and Angular.
+
+***
