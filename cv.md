@@ -38,3 +38,17 @@ function multiply(a, b) {
 I have more than 1-year of experience. I am working in a Tashkent Company called Calypso Intelligent Solutions. I created a few websites and an admin panel for the website. I have experience with SturtUp projects also. I am working on 2 startup projects. For creating WebApp I use HTML, CSS(SCSS, Tailwind, or Bootstrap/BootstrapVue, and sometimes ElementUI also and VueJs. I really love JavaScript and her framework VueJs. Now I'm learning JS deeply and Angular.
 
 ***
+### Education
+
+1. HTML - FreeCodeCamp
+2. CSS - FreeCodeCamp
+3. JavaScript - FreeCodeCamp.
+4. ReactJs - Mohirdev.
+
+***
+
+### Languages
+
+1. Uzbek - C2<br>
+2. Russian - B1<br>
+3. English - B2<br>
