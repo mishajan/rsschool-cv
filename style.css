@@ -125,7 +125,7 @@ body {
     justify-content: center;
 }
 
-/* Aside */ 
+
 .aside-container{
     width: 20%;
     max-height: max-content;
@@ -206,7 +206,7 @@ summary{
     cursor: pointer;
 }
 
-/* Footer */
+
 
 .footer-content{
     display: flex;
